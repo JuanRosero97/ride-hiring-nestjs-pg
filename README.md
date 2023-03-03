@@ -7,7 +7,7 @@ Proactive mindset, always willing to learn and personal improvement 📈.
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://juanrosero.netlify.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-rosero-calder%C3%B3n-27564b203/)
 
-## About_This_Project
+## About This Project
 
 This project simulates a small ride-hiring service. It is an API that allows you to log in, create a trip or finish it and that also makes an external call to a third-party API for the secure creation of a transaction. Each endpoint has validation of the requested fields and handles protection by JWT token and user ROLE. This API does NOT ask for any credit card information or sources of payment.
 
