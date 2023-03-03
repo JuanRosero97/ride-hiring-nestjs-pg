@@ -1,0 +1,4 @@
+services:
+  api-nestjs:
+    build:
+      target: integration-test
